@@ -5,7 +5,7 @@
 [![API](https://img.shields.io/badge/API-26%2B%20(Target%2034)-brightgreen.svg)](https://android-arsenal.com/api?level=26)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-**Backer & Sleeper** is a simple utility for Wear OS smartwatches (like the OnePlus Watch 2 / 2R) that lets you use your watch's physical button as:
+**Backer & Sleeper** is a simple utility for Wear OS smartwatches (tested on the **OnePlus Watch 2 / 2R**) that lets you use your watch's physical button as:
 - A dedicated **Back button**
 - A **Sleep / Screen Off button**
 
