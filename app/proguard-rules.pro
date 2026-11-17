@@ -1,0 +1,2 @@
+-keep class com.backer.wear.BackAccessibilityService { *; }
+-keep class com.backer.wear.MainActivity { *; }

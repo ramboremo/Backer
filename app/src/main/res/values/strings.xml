@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Backer</string>
+    <string name="sleeper_app_name">Sleeper</string>
+    <string name="accessibility_service_name">Backer Service</string>
+    <string name="accessibility_service_description">Enables the mapped physical button on your watch to execute Back and Sleep actions seamlessly.</string>
+    <string name="setup_title">Backer &amp; Sleeper Setup</string>
+    <string name="setup_desc">To use the physical button as Back or Sleep keys, please enable the Accessibility Service.</string>
+    <string name="setup_status_active">✓ Service is Active &amp; Ready</string>
+    <string name="setup_status_inactive">⚠ Service is Not Enabled</string>
+    <string name="setup_button_enable">Open Settings</string>
+    <string name="setup_instruction">Map your watch button in Settings → Buttons to open "Backer" (Single Press) or "Sleeper" (Double Press).</string>
+</resources>

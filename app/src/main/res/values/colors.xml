@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFAAAAAA</color>
+    <color name="accent_blue">#FF3B82F6</color>
+    <color name="accent_blue_pressed">#FF2563EB</color>
+    <color name="status_green">#FF22C55E</color>
+    <color name="status_amber">#FFF59E0B</color>
+    <color name="dark_card">#FF1E1E1E</color>
+</resources>
